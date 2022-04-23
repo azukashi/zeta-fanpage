@@ -21,7 +21,7 @@
 	import './api/api.d.ts';
 	export let data: Data;
 	let devProgress = {
-		value: '2.00',
+		value: '3.40',
 		maxVal: '100'
 	};
 </script>
