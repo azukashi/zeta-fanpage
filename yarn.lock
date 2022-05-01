@@ -17,15 +17,15 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fontsource/lexend@4.5.7":
-  version "4.5.7"
-  resolved "https://registry.yarnpkg.com/@fontsource/lexend/-/lexend-4.5.7.tgz#cecd399f910cc0eeb5258c2f9bd850f456014523"
-  integrity sha512-mf3x7C310vk2hzdYGQS40BmjdFZsGavR7jyinnxfa8AL7xvE173Ez4w5t9fy7yLC68QYpci+1iZ8mvIFuPyynQ==
+"@fontsource/lexend@4.5.10":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/lexend/-/lexend-4.5.10.tgz#a2ec4a7c251bf0162b6fdf9cad480c54587daabe"
+  integrity sha512-5FSyCRQ2ylL9aoxdjasNvEvTeaVStPuq1wHjOStvrKenv7XDpjEPr/TfW3jJyJ+yhOeZPl4qR96y7bFBX+uBzQ==
 
-"@fontsource/raleway@4.5.5":
-  version "4.5.5"
-  resolved "https://registry.yarnpkg.com/@fontsource/raleway/-/raleway-4.5.5.tgz#0540aeb025190bdc9bf59669fcffbc95d3b7dc8b"
-  integrity sha512-T2zIJ/6/2x+T9+tLtw/qSiJ68ahcceDMUOU3zrzEyNGYXUvlQyU4Cv9wyTmS+TU9IFHHChjMToV6izRL9mqDqg==
+"@fontsource/raleway@4.5.8":
+  version "4.5.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/raleway/-/raleway-4.5.8.tgz#39ad2c301f9bc5da5989cf11664ee0ec6ba788f0"
+  integrity sha512-4aHInZYFegsrX/8/roXUoZHLfgrPGkkQaH/CYDx486RKf+5V/GIIetnVt5SO9mLdOqeqKJrpgLkL7kSf24SYug==
 
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
