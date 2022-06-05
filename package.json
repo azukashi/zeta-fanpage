@@ -20,7 +20,7 @@
 	},
 	"devDependencies": {
 		"@fontsource/lexend": "4.5.10",
-		"@fontsource/raleway": "4.5.8",
+		"@fontsource/raleway": "4.5.9",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@typescript-eslint/eslint-plugin": "5.27.0",
