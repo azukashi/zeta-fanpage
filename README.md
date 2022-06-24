@@ -1,3 +1,3 @@
-# ベスティア・ゼータ Fan page
+# Vestia Zeta Fanpage
 
-Currently under constrcuction.
+Currently under constuction.

@@ -1,3 +1,13 @@
 {
-	"extends": "./.svelte-kit/tsconfig.json"
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "allowJs": true,
+        "sourceMap": true,
+        "lib": ["es2015", "esnext", "dom"],
+        "jsx": "preserve",
+        "paths": { "@/*": ["./src/*"] },
+        "target": "es5"
+    },
+    "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
+    "exclude": ["dist/*"]
 }

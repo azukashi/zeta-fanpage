@@ -1,0 +1,16 @@
+@import './styles/font';
+@import './styles/variable';
+@import './styles/nprogress';
+
+// Custom cursor
+* {
+    cursor: url('./assets/cursor.png'), auto;
+}
+
+// Fonts
+body {
+    font-family: $poppins;
+}
+p {
+    font-family: $lexend;
+}
